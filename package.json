@@ -8,7 +8,7 @@
   "engines": {
     "vscode": "^1.73.0"
   },
-  "images": "/images/fantasy.png",
+  "icon": "images/fantasy.png",
   "categories": [
     "Themes"
   ],

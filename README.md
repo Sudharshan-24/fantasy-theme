@@ -2,6 +2,8 @@
 
 Awesome fantasy themes!
 
+![Preview](https://github.com/Sudharshan-24/fantasy-theme/blob/main/images/preview.png)
+
 # Installation
 
 1. Open **Extensions** sidebar panel in VS Code. "View → Extensions"
