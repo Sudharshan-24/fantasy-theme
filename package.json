@@ -1,0 +1,22 @@
+{
+  "name": "theme-fantasy",
+  "displayName": "Fantasy",
+  "description": "Fantasy themes for Visual Studio Code by Sudharshan",
+  "icon": "/images/fantasy.png",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fantasy",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fantasy-color-theme.json"
+      }
+    ]
+  }
+}
