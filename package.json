@@ -2,8 +2,9 @@
   "name": "theme-fantasy",
   "displayName": "Fantasy",
   "description": "Fantasy themes for Visual Studio Code by Sudharshan",
-  "icon": "/images/fantasy.png",
   "version": "0.0.1",
+  "publisher": "Sudharshan",
+	"license": "MIT",
   "engines": {
     "vscode": "^1.73.0"
   },
